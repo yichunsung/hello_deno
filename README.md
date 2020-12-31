@@ -10,6 +10,19 @@
 
 - ** DELETE
 
+## Run
+
+```bash
+
+$ chmod +x start.sh
+
+```
+
+```bash
+
+$ ./start.sh
+
+```
 
 ## Reference 
 
